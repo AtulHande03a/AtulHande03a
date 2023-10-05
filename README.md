@@ -9,7 +9,7 @@ I'm a Front end developer aspiring to become a Fullstack web developer. Working 
 * 🌍  I'm based in Pune,India
 * 🖥️  See my portfolio at [GitHub Profile](https://github.com/AtulHande03a)
 * ✉️  You can contact me at my [Email](mailto:handeatul03a@gmail.com)
-* 🚀  I'm currently working on [Jobify App](http://jobify-jobs.herokuapp.com/)
+* 🚀  I'm currently doing 75 hard challenge [Twitter](https://twitter.com/AtulHande9)
 * 🌱 I’m currently learning **TypeScript, Express, NodeJs**
 * 👯 I’m looking to collaborate on **web development**
 * 📝 Read articles by me at my  [Hashnode](https://atulhande03a.hashnode.dev/) blog
