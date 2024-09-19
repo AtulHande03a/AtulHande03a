@@ -14,6 +14,7 @@ I'm a Front end developer aspiring to become a Fullstack web developer. Working 
 * 👯 I’m looking to collaborate on **web development**
 * 📝 Read articles by me at my  [Hashnode](https://atulhande03a.hashnode.dev/) blog
 * ⚡ Fact: You think about going on treks.. I will be ready with my shoes on😂
+* 💡 Doing open source contributions at Real Dev Squad.
 
 <br/>
 
